@@ -1,0 +1,15 @@
+{
+  "period_start": "2022-11-22",
+  "period_end": "2023-01-08",
+  "n_days": 48,
+  "days_in_market": 29,
+  "pct_time_in_market": 0.6041666666666666,
+  "total_return": 0.05704482875117556,
+  "benchmark_total_return": 0.060388118058904316,
+  "sharpe_ratio": 1.7563053589740978,
+  "sortino_ratio": 1.685527941442912,
+  "max_drawdown": -0.06584285174308091,
+  "win_rate_active_days": 0.4482758620689655,
+  "threshold": 0.002,
+  "notes": "Long/flat, no leverage, no transaction costs, out-of-sample walk-forward period only."
+}
